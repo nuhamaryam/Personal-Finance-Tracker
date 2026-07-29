@@ -31,7 +31,6 @@ This application allows users to log monthly income and expenses across multiple
    cd Personal-Finance-Tracker-NumPy
 
 ```
-
 2. **Install required dependencies:**
 ```bash
 pip install numpy matplotlib
@@ -125,6 +124,3 @@ Personal-Finance-Tracker-NumPy/
 
 Distributed under the MIT License. Feel free to fork, adapt, or use this code for personal or educational projects!
 
-```
-
-```
