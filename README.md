@@ -26,7 +26,7 @@ This application allows users to log monthly income and expenses across multiple
 ### Quick Installation
 
 1. **Clone the repository:**
-   git clone [https://github.com/YOUR-USERNAME/Personal-Finance-Tracker-NumPy.git](https://github.com/YOUR-USERNAME/Personal-Finance-Tracker-NumPy.git)
+   git clone [https://github.com/nuhamaryam/Personal-Finance-Tracker-NumPy.git](https://github.com/muhamaryam/Personal-Finance-Tracker-NumPy.git)
    cd Personal-Finance-Tracker-NumPy
 
 
