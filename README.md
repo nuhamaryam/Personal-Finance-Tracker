@@ -26,12 +26,17 @@ This application allows users to log monthly income and expenses across multiple
 ### Quick Installation
 
 1. **Clone the repository:**
-   git clone [https://github.com/nuhamaryam/Personal-Finance-Tracker-NumPy.git](https://github.com/muhamaryam/Personal-Finance-Tracker-NumPy.git)
+   ```bash
+   git clone [https://github.com/nuhamaryam/Personal-Finance-Tracker-NumPy.git](https://github.com/nuhamaryam/Personal-Finance-Tracker-NumPy.git)
    cd Personal-Finance-Tracker-NumPy
 
+```
 
 2. **Install required dependencies:**
+```bash
 pip install numpy matplotlib
+
+```
 
 
 
@@ -40,9 +45,11 @@ pip install numpy matplotlib
 ## 🚀 How to Run
 
 Execute the main script from your terminal:
+
+```bash
 python tracker.py
 
-
+```
 
 ### Application Options on Launch:
 
@@ -56,6 +63,7 @@ python tracker.py
 
 ### 1. Terminal Summary Report
 
+```text
 ==========================================
       PERSONAL FINANCE & SAVINGS REPORT   
 ==========================================
@@ -76,6 +84,7 @@ Average Monthly Savings: $1,385.00
 Average Savings Rate   : 39.6%
 ==========================================
 
+```
 
 ### 2. Auto-Exported Chart (`spending_chart.png`)
 
@@ -99,6 +108,7 @@ When prompted, the script exports a clean visualization showing your average spe
 
 ## 📂 Project Structure
 
+```text
 Personal-Finance-Tracker-NumPy/
 │
 ├── tracker.py          # Main application source code
@@ -107,8 +117,14 @@ Personal-Finance-Tracker-NumPy/
 ├── README.md           # Project documentation
 └── LICENSE             # MIT License
 
+```
+
 ---
 
 ## 📝 License
 
 Distributed under the MIT License. Feel free to fork, adapt, or use this code for personal or educational projects!
+
+```
+
+```
