@@ -114,7 +114,6 @@ Personal-Finance-Tracker-NumPy/
 ├── spending_chart.png  # Auto-generated visualization chart
 ├── README.md           # Project documentation
 └── LICENSE             # MIT License
-
 ```
 
 ---
