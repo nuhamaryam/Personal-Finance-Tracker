@@ -27,15 +27,14 @@ This application allows users to log monthly income and expenses across multiple
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/nuhamaryam/Personal-Finance-Tracker-NumPy.git](https://github.com/nuhamaryam/Personal-Finance-Tracker-NumPy.git)
+   git clone https://github.com/nuhamaryam/Personal-Finance-Tracker-NumPy.git
    cd Personal-Finance-Tracker-NumPy
+   ```
 
-```
 2. **Install required dependencies:**
-```bash
-pip install numpy matplotlib
-
-```
+   ```bash
+   pip install numpy matplotlib
+   ```
 
 
 
